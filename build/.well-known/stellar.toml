@@ -1,44 +1,29 @@
 VERSION="2.2.1"
 
 ACCOUNTS=[
-"GDVXGSOY55AFT5Q36UDSAAM6ZF6AD3ESU6AULVQ6J5JMYBR5TQC5MXZ5",
-"GAE36C6A4JV3NMRU3TZPGZ4OATNED4QZIYQ7CT5ERT4Y2PG3EOP4BPUI"
+"GDOSQQPEMT7GKIFEK7CHHNKEWJYTNYZYJHAOATLW7EJCECPF5L6DT4LA",
 ]
 
 [DOCUMENTATION]
-ORG_NAME="TonCoin"
-ORG_URL="https://ton-stellar.com"
-ORG_DESCRIPTION="Toncoin is TON's native cryptocurrency. It is used for network operations, transactions, games or collectibles built on TON."
-ORG_LOGO="https://i.ibb.co/LhtfzPD/TonCoinn.png"
+ORG_NAME="Whiplash SpaceX"
+ORG_URL="https://whiplash-spacex.org"
+ORG_DESCRIPTION="SpaceX Premium accessibility for WhipLash users."
+ORG_LOGO="https://i.ibb.co/Jsy6C5b/spacex.png"
 
 [[PRINCIPALS]]
-name="Slava Yakimenko"
+name="Elon Musk"
 
 
 [[CURRENCIES]]
-code="TON"
+code="WHIPSPACEX"
 status="live"
 display_decimals=2
-issuer="GDVXGSOY55AFT5Q36UDSAAM6ZF6AD3ESU6AULVQ6J5JMYBR5TQC5MXZ5"
-anchor_asset_type="crypto"
-name="TonCoin"
-desc="Unlocking freedom with Decentralized Finance"
-image="https://i.ibb.co/LhtfzPD/TonCoinn.png"
-fixed_number=2000000
-max_number=2000000
+issuer="GDOSQQPEMT7GKIFEK7CHHNKEWJYTNYZYJHAOATLW7EJCECPF5L6DT4LA"
+anchor_asset_type="stock"
+name="WhipLash&SpaceX"
+desc="Unleash new possibilities of holding SpaceX shares among the WhipLash community. Have the chance to acquire a SpaceX stock cheaper than average platforms."
+image="https://i.ibb.co/2WDWX4F/spacex.png"
+fixed_number=1000000
+max_number=1000000
 is_unlimited=false
-# TonCoin was issued using the open and inclusive Stellar blockchain network.
-
-[[CURRENCIES]]
-code="TONX"
-status="live"
-display_decimals=2
-issuer="GAE36C6A4JV3NMRU3TZPGZ4OATNED4QZIYQ7CT5ERT4Y2PG3EOP4BPUI"
-anchor_asset_type="crypto"
-name="TonX"
-desc="TON and X collaborate to integrate blockchain for secure, decentralized social media transactions, enhancing user control and monetization."
-image="https://i.ibb.co/B3pkY4M/TONX.png"
-fixed_number=10000000
-max_number=10000000
-is_unlimited=false
-# TonX was issued using the open and inclusive Stellar blockchain network.
+# WhipLash&SpaceX was issued using the open and inclusive Stellar blockchain network.
