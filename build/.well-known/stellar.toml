@@ -1,0 +1,44 @@
+VERSION="2.2.1"
+
+ACCOUNTS=[
+"GDVXGSOY55AFT5Q36UDSAAM6ZF6AD3ESU6AULVQ6J5JMYBR5TQC5MXZ5",
+"GAE36C6A4JV3NMRU3TZPGZ4OATNED4QZIYQ7CT5ERT4Y2PG3EOP4BPUI"
+]
+
+[DOCUMENTATION]
+ORG_NAME="TonCoin"
+ORG_URL="https://ton-stellar.com"
+ORG_DESCRIPTION="Toncoin is TON's native cryptocurrency. It is used for network operations, transactions, games or collectibles built on TON."
+ORG_LOGO="https://i.ibb.co/LhtfzPD/TonCoinn.png"
+
+[[PRINCIPALS]]
+name="Slava Yakimenko"
+
+
+[[CURRENCIES]]
+code="TON"
+status="live"
+display_decimals=2
+issuer="GDVXGSOY55AFT5Q36UDSAAM6ZF6AD3ESU6AULVQ6J5JMYBR5TQC5MXZ5"
+anchor_asset_type="crypto"
+name="TonCoin"
+desc="Unlocking freedom with Decentralized Finance"
+image="https://i.ibb.co/LhtfzPD/TonCoinn.png"
+fixed_number=2000000
+max_number=2000000
+is_unlimited=false
+# TonCoin was issued using the open and inclusive Stellar blockchain network.
+
+[[CURRENCIES]]
+code="TONX"
+status="live"
+display_decimals=2
+issuer="GAE36C6A4JV3NMRU3TZPGZ4OATNED4QZIYQ7CT5ERT4Y2PG3EOP4BPUI"
+anchor_asset_type="crypto"
+name="TonX"
+desc="TON and X collaborate to integrate blockchain for secure, decentralized social media transactions, enhancing user control and monetization."
+image="https://i.ibb.co/B3pkY4M/TONX.png"
+fixed_number=10000000
+max_number=10000000
+is_unlimited=false
+# TonX was issued using the open and inclusive Stellar blockchain network.
