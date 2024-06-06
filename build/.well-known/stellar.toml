@@ -1,12 +1,12 @@
 VERSION="2.2.1"
 
 ACCOUNTS=[
-"GDOSQQPEMT7GKIFEK7CHHNKEWJYTNYZYJHAOATLW7EJCECPF5L6DT4LA",
+"GDAB3RQFPMTQ23XX5FDIQARQPQBN454SLQ2R3XIVXVQCYJOVGGUM2M2V",
 ]
 
 [DOCUMENTATION]
 ORG_NAME="Whiplash SpaceX"
-ORG_URL="https://whiplash-spacex.org"
+ORG_URL="https://elonwhip.org"
 ORG_DESCRIPTION="SpaceX Premium accessibility for WhipLash users."
 ORG_LOGO="https://i.ibb.co/Jsy6C5b/spacex.png"
 
@@ -18,7 +18,7 @@ name="Elon Musk"
 code="WHIPSPACEX"
 status="live"
 display_decimals=2
-issuer="GDOSQQPEMT7GKIFEK7CHHNKEWJYTNYZYJHAOATLW7EJCECPF5L6DT4LA"
+issuer="GDAB3RQFPMTQ23XX5FDIQARQPQBN454SLQ2R3XIVXVQCYJOVGGUM2M2V"
 anchor_asset_type="stock"
 name="WhipLash&SpaceX"
 desc="Unleash new possibilities of holding SpaceX shares among the WhipLash community. Have the chance to acquire a SpaceX stock cheaper than average platforms."
