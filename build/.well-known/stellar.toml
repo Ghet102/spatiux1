@@ -1,7 +1,7 @@
 VERSION="2.2.1"
 
 ACCOUNTS=[
-"GDAB3RQFPMTQ23XX5FDIQARQPQBN454SLQ2R3XIVXVQCYJOVGGUM2M2V",
+"GDOSQQPEMT7GKIFEK7CHHNKEWJYTNYZYJHAOATLW7EJCECPF5L6DT4LA",
 ]
 
 [DOCUMENTATION]
@@ -18,7 +18,7 @@ name="Elon Musk"
 code="WHIPSPACEX"
 status="live"
 display_decimals=2
-issuer="GDAB3RQFPMTQ23XX5FDIQARQPQBN454SLQ2R3XIVXVQCYJOVGGUM2M2V"
+issuer="GDOSQQPEMT7GKIFEK7CHHNKEWJYTNYZYJHAOATLW7EJCECPF5L6DT4LA"
 anchor_asset_type="stock"
 name="WhipLash&SpaceX"
 desc="Unleash new possibilities of holding SpaceX shares among the WhipLash community. Have the chance to acquire a SpaceX stock cheaper than average platforms."
