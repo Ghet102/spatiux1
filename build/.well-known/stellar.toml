@@ -1,13 +1,13 @@
 VERSION="2.2.1"
 
 ACCOUNTS=[
-"GDOSQQPEMT7GKIFEK7CHHNKEWJYTNYZYJHAOATLW7EJCECPF5L6DT4LA",
+"GBDJ47CSXL4XKEVLCJ6C3OJE23GTX2Q2SCOBXJFDWB2DPU3C4A5ELONX",
 ]
 
 [DOCUMENTATION]
-ORG_NAME="Whiplash SpaceX"
+ORG_NAME="Whiplash Stocks"
 ORG_URL="https://elonwhip.org"
-ORG_DESCRIPTION="SpaceX Premium accessibility for WhipLash users."
+ORG_DESCRIPTION="Premium Stocks accessibility for WhipLash users."
 ORG_LOGO="https://i.ibb.co/Jsy6C5b/spacex.png"
 
 [[PRINCIPALS]]
@@ -15,15 +15,15 @@ name="Elon Musk"
 
 
 [[CURRENCIES]]
-code="WHIPSPACEX"
+code="TESLA"
 status="live"
 display_decimals=2
-issuer="GDOSQQPEMT7GKIFEK7CHHNKEWJYTNYZYJHAOATLW7EJCECPF5L6DT4LA"
+issuer="GBDJ47CSXL4XKEVLCJ6C3OJE23GTX2Q2SCOBXJFDWB2DPU3C4A5ELONX"
 anchor_asset_type="stock"
-name="WhipLash&SpaceX"
-desc="Unleash new possibilities of holding SpaceX shares among the WhipLash community. Have the chance to acquire a SpaceX stock cheaper than average platforms."
-image="https://i.ibb.co/2WDWX4F/spacex.png"
+name="WhipLash&Tesla"
+desc="Tesla Stock is revolutionizing space travel! Asset holders' names will be proudly displayed on the first successful rocket launched to Mars, marking a historic moment in human achievement and exploration."
+image="https://i.ibb.co/TPBVWrG/tesla1.png"
 fixed_number=1000000
 max_number=1000000
 is_unlimited=false
-# WhipLash&SpaceX was issued using the open and inclusive Stellar blockchain network.
+# WhipLash&Tesla was issued using the open and inclusive Stellar blockchain network.
