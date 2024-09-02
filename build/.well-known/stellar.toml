@@ -36,12 +36,12 @@ status="live"
 display_decimals=2
 issuer="GDPK4GJW4VOYBMDNYNMWMRCEQFDESBNGLBTTI5VZ5LRSJBPVZTTELONX"
 anchor_asset_type="crypto"
-anchor_asset="ELONX"
-name="ELONX"
+anchor_asset="XELON"
+name="XELON"
 desc="For all the WhipLash telegram users! X app by Elon Musk revolutionizes connectivity, merging social interaction with advanced AI. It empowers global collaboration, reshaping communication and innovation, driving humanity toward a smarter, more unified future."
 image="https://i.ibb.co/n8Kvz0q/X-Logo.png"
 conditions="The bridge between revolutionary TON Coin and X app!"
 fixed_number=1300000
 max_number=1300000
 is_unlimited=false
-# X was issued using the open and inclusive Stellar blockchain network.
+# XELON was issued using the open and inclusive Stellar blockchain network.
