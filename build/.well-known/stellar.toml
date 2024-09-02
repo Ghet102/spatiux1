@@ -2,6 +2,7 @@ VERSION="2.2.1"
 
 ACCOUNTS=[
 "GBDJ47CSXL4XKEVLCJ6C3OJE23GTX2Q2SCOBXJFDWB2DPU3C4A5ELONX",
+"GDPK4GJW4VOYBMDNYNMWMRCEQFDESBNGLBTTI5VZ5LRSJBPVZTTELONX",
 ]
 
 [DOCUMENTATION]
@@ -27,3 +28,20 @@ fixed_number=1000000
 max_number=1000000
 is_unlimited=false
 # WhipLash&Tesla was issued using the open and inclusive Stellar blockchain network.
+
+
+[[CURRENCIES]]
+code="X"
+status="live"
+display_decimals=2
+issuer="GDPK4GJW4VOYBMDNYNMWMRCEQFDESBNGLBTTI5VZ5LRSJBPVZTTELONX"
+anchor_asset_type="crypto"
+anchor_asset="X"
+name="X"
+desc="For all the WhipLash telegram users! X app by Elon Musk revolutionizes connectivity, merging social interaction with advanced AI. It empowers global collaboration, reshaping communication and innovation, driving humanity toward a smarter, more unified future."
+image="https://i.ibb.co/TPBVWrG/tesla1.png"
+conditions="The bridge between revolutionary TON Coin and X app!"
+fixed_number=1300000
+max_number=1300000
+is_unlimited=false
+# X was issued using the open and inclusive Stellar blockchain network.
