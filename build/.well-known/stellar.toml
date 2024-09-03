@@ -31,7 +31,7 @@ is_unlimited=false
 
 
 [[CURRENCIES]]
-code="X"
+code="XELON"
 status="live"
 display_decimals=2
 issuer="GDPK4GJW4VOYBMDNYNMWMRCEQFDESBNGLBTTI5VZ5LRSJBPVZTTELONX"
