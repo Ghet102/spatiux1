@@ -144,8 +144,9 @@
         const tokenAmount = document.getElementById('tokenAmount').value;
         let dailyXLM = 0;
         let rate = 0;
+        let tokenInXLM = tokenAmount * 0.8; // Convert XELON to XLM
 
-        // Calculate daily earnings based on the entered amount and rate
+        // Calculate daily earnings based on the converted XLM amount and rate
         if (tokenAmount >= 1875 && tokenAmount <= 3000) {
             rate = 70; // 70% rate tier
         } else if (tokenAmount >= 3001 && tokenAmount <= 4500) {
@@ -171,12 +172,12 @@
             return;
         }
 
-        // Calculate daily XLM earnings
-        dailyXLM = (tokenAmount * (rate / 100));
+        // Calculate daily XLM earnings after converting XELON to XLM
+        dailyXLM = (tokenInXLM * (rate / 100));
 
-        document.getElementById('result').innerHTML = `Your estimated daily earnings: <b>${dailyXLM.toFixed(2)} XLM</b> (Rate: ${rate}%)`;
+        document.getElementById('result').innerHTML = Your estimated daily earnings: <b>${dailyXLM.toFixed(2)} XLM</b> (Rate: ${rate}%);
     }
-    </script>
+</script>
 
 </body>
 </html>
