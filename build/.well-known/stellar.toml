@@ -3,6 +3,14 @@ VERSION="2.2.1"
 ACCOUNTS=[
 "GBDJ47CSXL4XKEVLCJ6C3OJE23GTX2Q2SCOBXJFDWB2DPU3C4A5ELONX",
 "GDPK4GJW4VOYBMDNYNMWMRCEQFDESBNGLBTTI5VZ5LRSJBPVZTTELONX",
+"GBX743B3DQKLE5XUN5Z56GOIVMMXRKQJTIRQSVIY3AH3JJQA53EMLINK",
+"GCKUU7BDNL7A4D7JABYE5WSHRXBPQJTKJYAAPEPNYJSV7CHRD5SSLINK",
+"GCIELJ7SU5DNTLRZLXEANRZ2Q7TBP4FDXAV52NQQWSBFCKSMDNZRHYPR",
+"GA5I7GQNVWGC6ETTA4XUNG6FHNEJ4HEOD363VRMT7SCOAUXQMJBGOTBC",
+
+
+
+
 ]
 
 [DOCUMENTATION]
@@ -45,3 +53,70 @@ fixed_number=1300000
 max_number=1300000
 is_unlimited=false
 # XELON was issued using the open and inclusive Stellar blockchain network.
+
+
+[[CURRENCIES]]
+code="NLINK"
+status="live"
+display_decimals=2
+issuer="GBX743B3DQKLE5XUN5Z56GOIVMMXRKQJTIRQSVIY3AH3JJQA53EMLINK"
+anchor_asset_type="crypto"
+anchor_asset="XELON"
+name="Neuralink Token"
+desc="Invest in neurotechnology innovations with Neuralink, earning dividends from brain-machine interface developments."
+image="https://i.ibb.co/Kbsy8Jt/neuralink.png"
+fixed_number=2500000
+max_number=2500000
+is_unlimited=false
+# NLINK was issued using the open and inclusive Stellar blockchain network.
+
+
+[[CURRENCIES]]
+code="SLINK"
+status="live"
+display_decimals=2
+issuer="GCKUU7BDNL7A4D7JABYE5WSHRXBPQJTKJYAAPEPNYJSV7CHRD5SSLINK"
+anchor_asset_type="crypto"
+anchor_asset="XELON"
+name="Starlink Token"
+desc="Participate in Starlink’s satellite internet expansion, receiving dividends based on global coverage growth."
+image="https://i.ibb.co/hfjjm6s/starlink-logo.png"
+fixed_number=10000000
+max_number=10000000
+is_unlimited=false
+# SLINK was issued using the open and inclusive Stellar blockchain network.
+
+
+[[CURRENCIES]]
+code="HYPER"
+status="live"
+display_decimals=2
+issuer="GCIELJ7SU5DNTLRZLXEANRZ2Q7TBP4FDXAV52NQQWSBFCKSMDNZRHYPR"
+anchor_asset_type="crypto"
+anchor_asset="XELON"
+name="Hyperloop Token"
+desc="Invest in the future of high-speed Hyperloop transport, earning dividends as infrastructure expands globally."
+image="https://i.ibb.co/j6XqR6k/hyperlooplogo-copy.png"
+fixed_number=7000000
+max_number=7000000
+is_unlimited=false
+# HYPER was issued using the open and inclusive Stellar blockchain network.
+
+
+[[CURRENCIES]]
+code="TBC"
+status="live"
+display_decimals=2
+issuer="GA5I7GQNVWGC6ETTA4XUNG6FHNEJ4HEOD363VRMT7SCOAUXQMJBGOTBC"
+anchor_asset_type="crypto"
+anchor_asset="XELON"
+name="The Boring Company Token"
+desc="Invest in tunneling and future urban transportation, gaining dividends from infrastructure projects."
+image="https://i.ibb.co/zVySmL5/boring-company-logo.png"
+fixed_number=5000000
+max_number=5000000
+is_unlimited=false
+# TBC was issued using the open and inclusive Stellar blockchain network.
+
+
+
