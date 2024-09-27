@@ -7,6 +7,9 @@ ACCOUNTS=[
 "GCKUU7BDNL7A4D7JABYE5WSHRXBPQJTKJYAAPEPNYJSV7CHRD5SSLINK",
 "GCIELJ7SU5DNTLRZLXEANRZ2Q7TBP4FDXAV52NQQWSBFCKSMDNZRHYPR",
 "GA5I7GQNVWGC6ETTA4XUNG6FHNEJ4HEOD363VRMT7SCOAUXQMJBGOTBC",
+"GAS4LCHPWEHCWRPR2LAIRCYWGSPSUID7HGYGTAIAR4B5E3SAW7YUQLAX",
+"GDW4UCJVOUIRLXVY4FWSXQJBCIA3QZPFMVRL3KMAIMTCXASWGBJFRXAI",
+
 
 
 
@@ -117,6 +120,41 @@ fixed_number=5000000
 max_number=5000000
 is_unlimited=false
 # TBC was issued using the open and inclusive Stellar blockchain network.
+
+
+[[CURRENCIES]]
+code="X"
+status="live"
+display_decimals=2
+issuer="GAS4LCHPWEHCWRPR2LAIRCYWGSPSUID7HGYGTAIAR4B5E3SAW7YUQLAX"
+anchor_asset_type="crypto"
+anchor_asset="XELON"
+name="The X app"
+desc="Invest in tunneling and future urban transportation, gaining dividends from infrastructure projects."
+image="https://i.ibb.co/0DBFxCT/x-new-social-network-black-app-icon-twitter-rebranded-as-x-twitter-s-logo-was-changed-277909-568-Bac.png"
+fixed_number=3000000
+max_number=3000000
+is_unlimited=false
+# X was issued using the open and inclusive Stellar blockchain network.
+
+
+
+[[CURRENCIES]]
+code="XAI"
+status="live"
+display_decimals=2
+issuer="GDW4UCJVOUIRLXVY4FWSXQJBCIA3QZPFMVRL3KMAIMTCXASWGBJFRXAI"
+anchor_asset_type="crypto"
+anchor_asset="XELON"
+name="xAI"
+desc="XAi Token is your key to participating in a massive. Billion Wealth Transfer designed to shift wealth into the hands of forward-thinking investors who believe in a decentralized future. By investing in XAi, you’re not just buying a token - you’re securing your place in the future of AI technology and financial "
+image="https://i.ibb.co/0X9FnxG/xAI-Logo.png"
+fixed_number=3000000
+max_number=3000000
+is_unlimited=false
+# XAI was issued using the open and inclusive Stellar blockchain network.
+
+
 
 
 
