@@ -9,6 +9,7 @@ ACCOUNTS=[
 "GA5I7GQNVWGC6ETTA4XUNG6FHNEJ4HEOD363VRMT7SCOAUXQMJBGOTBC",
 "GAS4LCHPWEHCWRPR2LAIRCYWGSPSUID7HGYGTAIAR4B5E3SAW7YUQLAX",
 "GDW4UCJVOUIRLXVY4FWSXQJBCIA3QZPFMVRL3KMAIMTCXASWGBJFRXAI",
+"GAQTDA54HKXQUMRQWZ7WIMMESBSCZCIGTUAV4GINM4PJMSWJVTDOPTMS",
 
 
 
@@ -153,6 +154,21 @@ fixed_number=3000000
 max_number=3000000
 is_unlimited=false
 # XAI was issued using the open and inclusive Stellar blockchain network.
+
+[[CURRENCIES]]
+code="OPTIMUS"
+status="live"
+display_decimals=2
+issuer="GAQTDA54HKXQUMRQWZ7WIMMESBSCZCIGTUAV4GINM4PJMSWJVTDOPTMS"
+anchor_asset_type="crypto"
+anchor_asset="xAI"
+name="OPTIMUS GEN-2"
+desc="This token confirms the POO*proof of ordering* for the upcoming Tesla's Optimus Gen2 humanoid robot, CEO Elon Musk. The official sales start around 2025."
+image="https://ibb.co/M2X6Fvs"
+conditions="Trading/Selling this token can break the POO. Do it on your own risk."
+fixed_number=10
+max_number=10
+is_unlimited=false
 
 
 
