@@ -203,8 +203,8 @@ anchor_asset="xAI"
 name="X1"
 image="https://i.ibb.co/GkV5BB7/x1.png"
 conditions="X Payment"
-fixed_number=1000000
-max_number=1000000
+fixed_number=10000000
+max_number=10000000
 is_unlimited=false
 
 
@@ -218,8 +218,8 @@ anchor_asset="xAI"
 name="X1"
 image="https://i.ibb.co/Vp1W6H9/x2.png"
 conditions="X Payment"
-fixed_number=1000000
-max_number=1000000
+fixed_number=10000000
+max_number=10000000
 is_unlimited=false
 
 
@@ -233,8 +233,8 @@ anchor_asset="xAI"
 name="X3"
 image="https://i.ibb.co/f1Lyg8j/x3.png"
 conditions="X Payment"
-fixed_number=1000000
-max_number=1000000
+fixed_number=10000000
+max_number=10000000
 is_unlimited=false
 
 
@@ -248,8 +248,8 @@ anchor_asset="xAI"
 name="X4"
 image="https://i.ibb.co/1vqwr23/x4.png"
 conditions="X Payment"
-fixed_number=1000000
-max_number=1000000
+fixed_number=10000000
+max_number=10000000
 is_unlimited=false
 
 
@@ -263,6 +263,6 @@ anchor_asset="xAI"
 name="X5"
 image="https://i.ibb.co/QDTHtHp/x5.png"
 conditions="X Payment"
-fixed_number=1000000
-max_number=1000000
+fixed_number=10000000
+max_number=10000000
 is_unlimited=false
