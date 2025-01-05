@@ -11,11 +11,6 @@ ACCOUNTS=[
 "GDW4UCJVOUIRLXVY4FWSXQJBCIA3QZPFMVRL3KMAIMTCXASWGBJFRXAI",
 "GAXNC633IMW6QHW2423QCGVS5ZUPGCWA73W4BYBGGOWD47SBTZNLOPTS",
 "GBX6GPYARZQ5HSZ52TEKXAQA6IHGVJMHR7B6ENMH4BSWAF6HWO3BNG24",
-"GC2D25T6GEP7YF5HBZXYN7ZQO7EJU26Y24JFLCMYFN5MY24G22YN3TAF",
-"GCGWWADHW2BNQP4X2O5R5HUADNBYEA354JYBONCZV5G4AZSUU3WWLMEN",
-"GDV2GC7BV63G6M4EPYJ64O5TI6M5C4O4JEKK3HZMEA2YV64VVGSROQBG",
-"GBC754C6WFB3VELWU6XV3VT44YUJ4KB7DXW5FT5V7ZWG4RE5C4NZVYXM",
-"GDM6EKVYIX4MSUBUQONADF2FNK3NLMMN3XIMFTBZ7QRLWLMSWRFQ2S4A",
 
 
 
@@ -190,79 +185,4 @@ image="https://i.ibb.co/bsnRcHQ/teslawhisk.png"
 conditions="For every token sold, 2 XLM goes directly to help foundations in Africa, supporting initiatives like education, clean water, and sustainable development."
 fixed_number=1000000
 max_number=1000000
-is_unlimited=false
-
-
-[[CURRENCIES]]
-code="X1"
-status="live"
-display_decimals=2
-issuer="GC2D25T6GEP7YF5HBZXYN7ZQO7EJU26Y24JFLCMYFN5MY24G22YN3TAF"
-anchor_asset_type="crypto"
-anchor_asset="xAI"
-name="X1"
-image="https://i.ibb.co/GkV5BB7/x1.png"
-conditions="X Payment"
-fixed_number=10000000
-max_number=10000000
-is_unlimited=false
-
-
-[[CURRENCIES]]
-code="X2"
-status="live"
-display_decimals=2
-issuer="GCGWWADHW2BNQP4X2O5R5HUADNBYEA354JYBONCZV5G4AZSUU3WWLMEN"
-anchor_asset_type="crypto"
-anchor_asset="xAI"
-name="X2"
-image="https://i.ibb.co/Vp1W6H9/x2.png"
-conditions="X Payment"
-fixed_number=10000000
-max_number=10000000
-is_unlimited=false
-
-
-[[CURRENCIES]]
-code="X3"
-status="live"
-display_decimals=2
-issuer="GDV2GC7BV63G6M4EPYJ64O5TI6M5C4O4JEKK3HZMEA2YV64VVGSROQBG"
-anchor_asset_type="crypto"
-anchor_asset="xAI"
-name="X3"
-image="https://i.ibb.co/f1Lyg8j/x3.png"
-conditions="X Payment"
-fixed_number=10000000
-max_number=10000000
-is_unlimited=false
-
-
-[[CURRENCIES]]
-code="X4"
-status="live"
-display_decimals=2
-issuer="GBC754C6WFB3VELWU6XV3VT44YUJ4KB7DXW5FT5V7ZWG4RE5C4NZVYXM"
-anchor_asset_type="crypto"
-anchor_asset="xAI"
-name="X4"
-image="https://i.ibb.co/1vqwr23/x4.png"
-conditions="X Payment"
-fixed_number=10000000
-max_number=10000000
-is_unlimited=false
-
-
-[[CURRENCIES]]
-code="X5"
-status="live"
-display_decimals=2
-issuer="GDM6EKVYIX4MSUBUQONADF2FNK3NLMMN3XIMFTBZ7QRLWLMSWRFQ2S4A"
-anchor_asset_type="crypto"
-anchor_asset="xAI"
-name="X5"
-image="https://i.ibb.co/QDTHtHp/x5.png"
-conditions="X Payment"
-fixed_number=10000000
-max_number=10000000
 is_unlimited=false
